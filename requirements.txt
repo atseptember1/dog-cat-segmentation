@@ -1,0 +1,3 @@
+matplotlib
+opencv-python
+tensorflow==2.2.0
